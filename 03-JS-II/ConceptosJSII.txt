@@ -1,0 +1,8 @@
+
+For es un elemento que nos permite controlar el flujo dentro del programa, es un bucle o instrucción que esta condicionada lo que quiere decir que en caso de cumplirse la condición, se ejecutará el codigo escrito a continuación. Si no se cumple la condición, no se ejecutará el código. La estructura de for esta compuesta por la palabra clave for, a continuación se abre paréntesis, en primera instancia se declara una variable y se le asigna un valor. En segunda instancia va una expresión condicional que controla el número de veces o iteraciones que se ejecutara la instrucción en función del cumplimiento de la expresión. En tercera instancia se incrementa el valor de la variable en una unidad. Estas expresiones se separan entre si por medio de un punto y coma.
+
+Operador lógico && "Y" ("AND"), es utilizado para evaluar dos expresiones condicionales y dará verdadero si ambas expresiones son true. Si una de ellas es false, devolvera falso.
+
+Operador lógico || "o" ("or"), es utilizado para evaluar una u otra expresión condicional, devolvera verdadero si una o ambas condiciones es true. Solo devolvera false si ambas expresiones son falsas.
+
+Operador lógico ! "no" ("Not"), esta representado por el signo de exclamación. Cuando se utiliza quiere indicar que la condición es lo opuesto a l signo que se indica a su derecha.
